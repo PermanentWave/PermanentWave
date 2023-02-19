@@ -11,7 +11,7 @@ Location: :jp:Japan
 ### SetTopAndBottomButtons (AdGuard Extension)
 [Repository Link](https://github.com/PermanentWave/SetTopAndBottomButtons)  
 Set buttons to jump to top and bottom on the Web page.
-Thi is extension of AdGuard Pro (for Windows/Android), Greasemonkey and Tampermonkey.
+This is extension of AdGuard Pro (for Windows/Android), Greasemonkey and Tampermonkey.
 
 ### GenA Koburi Mincho / 源亜こぶり明朝 (Kindle Font)
 [Repository Link](https://github.com/PermanentWave/GenA-Koburi-Mincho)  
