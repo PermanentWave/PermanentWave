@@ -18,6 +18,16 @@ This is extension of AdGuard Pro (for Windows/Android), Greasemonkey and Tamperm
 Font that displays italics and obliques text correctly on the Kindle.  
 Original font is [GenEi Koburi Mincho / 源暎こぶり明朝](https://okoneya.jp/font/genei-koburimin.html).  
 
+### GenA Mincho / 源亜明朝 (Kindle Font)  
+[Repository Link](https://github.com/PermanentWave/GenA-Mincho)  
+Font that displays italics and obliques text correctly on the Kindle.  
+Original font is [Noto Serif CJK JP](https://github.com/notofonts/noto-cjk)  
+
+### GenA Gothic / 源亜ゴシック (Kindle Font)  
+[Repository Link](https://github.com/PermanentWave/GenA-Gothic)  
+Font that displays italics and obliques text correctly on the Kindle.  
+Original font is [Noto Sans CJK JP](https://github.com/notofonts/noto-cjk)  
+
 ### GenA UD Mincho / 源亜UD明朝 (Kindle Font)
 [Repository Link](https://github.com/PermanentWave/GenA-UD-Mincho)  
 Font that displays italics and obliques text correctly on the Kindle.  
